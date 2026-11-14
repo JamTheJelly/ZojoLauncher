@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="zojo_paper">#FF09090A</color>
+    <string name="app_name">ZOJO Launcher</string>
+
+    <style name="Theme.Zojo" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/zojo_paper</item>
+        <item name="android:colorBackground">@color/zojo_paper</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowShowWallpaper">false</item>
+    </style>
+</resources>
